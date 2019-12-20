@@ -1,11 +1,11 @@
 Untitled
 ================
 
-  - [GitHub Documents](#github-documents)
+  - [GitHub Documents2](#github-documents2)
   - [Including Code](#including-code)
   - [Including Plots](#including-plots)
 
-## GitHub Documents
+## GitHub Documents2
 
 This is an R Markdown format used for publishing markdown documents to
 GitHub. When you click the **Knit** button all R code chunks are run and
