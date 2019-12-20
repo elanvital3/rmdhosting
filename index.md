@@ -1,6 +1,10 @@
 Untitled
 ================
 
+  - [GitHub Documents](#github-documents)
+  - [Including Code](#including-code)
+  - [Including Plots](#including-plots)
+
 ## GitHub Documents
 
 This is an R Markdown format used for publishing markdown documents to

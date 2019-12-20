@@ -1,6 +1,9 @@
 ---
 title: "Untitled"
-output: github_document
+output:
+   github_document:
+     toc : yes
+     
 ---
 
 ```{r setup, include=FALSE}
